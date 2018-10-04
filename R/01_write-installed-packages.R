@@ -1,3 +1,7 @@
+#' ---
+#' output: github_document
+#' ---
+
 ## deja vu from earlier!
 
 ## create a data frame of your installed packages
@@ -27,3 +31,5 @@ write_csv(ipt, here::here("data", "installed-packages.csv"))
 ## YES overwrite the file that is there now (or delete it first)
 ## that came from me (Jenny)
 ## it an example of what yours should look like and where it should go
+
+
