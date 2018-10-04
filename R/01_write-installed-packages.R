@@ -9,6 +9,8 @@ ipt <- installed.packages() %>%
   as_tibble() %>%
   clean_names()
 
+glimpse(ipt)
+
 ## optional: select just some of the variables, such as
 ##   * Package
 ##   * LibPath
