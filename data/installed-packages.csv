@@ -6,6 +6,7 @@ base64enc,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.1-3,N
 BH,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.66.0-1,NA,NA,NA,NA,NA,NA,BSL-1.0,NA,NA,NA,NA,no,3.5.0
 bindr,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.1.1,NA,NA,NA,NA,testthat,NA,MIT + file LICENSE,NA,NA,NA,NA,no,3.5.0
 bindrcpp,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.2.2,NA,NA,"bindr (>= 0.1.1), Rcpp (>= 0.12.16)","plogr, Rcpp",testthat,NA,MIT + file LICENSE,NA,NA,NA,NA,yes,3.5.0
+bitops,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.0-6,NA,NA,NA,NA,NA,NA,GPL (>= 2),NA,NA,NA,NA,yes,3.5.0
 boot,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.3-20,recommended,"R (>= 3.0.0), graphics, stats",NA,NA,"MASS, survival",NA,Unlimited,NA,NA,NA,NA,no,3.5.1
 broom,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,0.5.0,NA,R (>= 3.1),"backports, dplyr, methods, nlme, purrr, reshape2, stringr,
 tibble, tidyr",NA,"AER, akima, AUC, bbmle, betareg, biglm, binGroup, boot, brms,
@@ -19,6 +20,7 @@ quantreg, rgeos, rmarkdown, robust, rsample, rstan, rstanarm,
 sp, speedglm, statnet.common, survey, survival, testthat,
 tseries, xergm, zoo",NA,MIT + file LICENSE,NA,NA,NA,NA,no,3.5.0
 callr,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,3.0.0,NA,NA,"base64enc, processx (>= 3.2.0), R6, utils",NA,"covr, crayon, ps, testthat, withr",NA,MIT + file LICENSE,NA,NA,NA,NA,no,3.5.0
+caTools,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.17.1.1,NA,R (>= 2.2.0),bitops,NA,"MASS, rpart",NA,GPL-3,NA,NA,NA,NA,yes,3.5.0
 cellranger,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.1.0,NA,R (>= 3.0.0),"rematch, tibble",NA,"covr, testthat (>= 1.0.0), knitr, rmarkdown",NA,MIT + file LICENSE,NA,NA,NA,NA,no,3.5.0
 class,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,7.3-14,recommended,"R (>= 3.0.0), stats, utils",MASS,NA,NA,NA,GPL-2 | GPL-3,NA,NA,NA,NA,yes,3.5.1
 cli,/Library/Frameworks/R.framework/Versions/3.5/Resources/library,1.0.1,NA,R (>= 2.10),"assertthat, crayon (>= 1.3.4), methods, utils",NA,"covr, fansi, mockery, testthat, webshot, withr",NA,MIT + file LICENSE,NA,NA,NA,NA,no,3.5.0
